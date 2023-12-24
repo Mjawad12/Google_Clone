@@ -1,0 +1,445 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - numl",
+        "totalResults": "2040000",
+        "searchTerms": "numl",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "7703bdaeb4c56454b"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - numl",
+        "totalResults": "2040000",
+        "searchTerms": "numl",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "7703bdaeb4c56454b"
+      }
+    ]
+  },
+  "context": {
+    "title": "Google"
+  },
+  "searchInformation": {
+    "searchTime": 0.316773,
+    "formattedSearchTime": "0.32",
+    "totalResults": "2040000",
+    "formattedTotalResults": "2,040,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "NUML: Home",
+      "htmlTitle": "\u003cb\u003eNUML\u003c/b\u003e: Home",
+      "link": "https://www.numl.edu.pk/",
+      "displayLink": "www.numl.edu.pk",
+      "snippet": "NUML helps students make the most of their intellectual experience by bringing together the great ideas and their befitting accomplishment. It ensures their ...",
+      "htmlSnippet": "\u003cb\u003eNUML\u003c/b\u003e helps students make the most of their intellectual experience by bringing together the great ideas and their befitting accomplishment. It ensures their&nbsp;...",
+      "cacheId": "XCUf008zEEoJ",
+      "formattedUrl": "https://www.numl.edu.pk/",
+      "htmlFormattedUrl": "https://www.\u003cb\u003enuml\u003c/b\u003e.edu.pk/",
+      "pagemap": {
+        "metatags": [
+          {
+            "website": "National_University_of_Modern_Languages",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "_token": "hcSxWMN8ERFtMyukVVbawOArxqO5YT9KHJFcqTzy"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "numl admissions",
+      "htmlTitle": "\u003cb\u003enuml\u003c/b\u003e admissions",
+      "link": "https://onlineadmission.numl.edu.pk/",
+      "displayLink": "onlineadmission.numl.edu.pk",
+      "snippet": "National University of Modern Languages Online Admission System. NUML ADMISSIONS. Summer Short Courses (Admission Closed). Create New Account Sign in.",
+      "htmlSnippet": "National University of Modern Languages Online Admission System. \u003cb\u003eNUML\u003c/b\u003e ADMISSIONS. Summer Short Courses (Admission Closed). Create New Account Sign in.",
+      "cacheId": "zUQFgKV9YYEJ",
+      "formattedUrl": "https://onlineadmission.numl.edu.pk/",
+      "htmlFormattedUrl": "https://onlineadmission.\u003cb\u003enuml\u003c/b\u003e.edu.pk/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrz08XiSXNFjKAguoVRn1uxZBw68am5m45CwsAhS8bBt7XNMy051HuYA",
+            "width": "132",
+            "height": "122"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://onlineadmission.numl.edu.pk/addmax/images/log.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "sethjuarez/numl: Machine Learning for .NET - GitHub",
+      "htmlTitle": "sethjuarez/numl: Machine Learning for .NET - GitHub",
+      "link": "https://github.com/sethjuarez/numl",
+      "displayLink": "github.com",
+      "snippet": "Machine Learning for .NET. Contribute to sethjuarez/numl development by creating an account on GitHub.",
+      "htmlSnippet": "Machine Learning for .NET. Contribute to sethjuarez/\u003cb\u003enuml\u003c/b\u003e development by creating an account on GitHub.",
+      "cacheId": "pWBYxwHO-q4J",
+      "formattedUrl": "https://github.com/sethjuarez/numl",
+      "htmlFormattedUrl": "https://github.com/sethjuarez/\u003cb\u003enuml\u003c/b\u003e",
+      "pagemap": {
+        "softwaresourcecode": [
+          {
+            "license": "LICENSE.md",
+            "author": "sethjuarez",
+            "name": "numl",
+            "text": "Project Description This library is designed to assist in the use of common Machine Learning Algorithms in conjunction with the .NET platform. It is designed to include the most popular supervised..."
+          }
+        ],
+        "metatags": [
+          {
+            "octolytics-url": "https://collector.github.com/github/collect",
+            "apple-itunes-app": "app-id=1477376905, app-argument=https://github.com/sethjuarez/numl",
+            "og:image": "https://opengraph.githubassets.com/22e4a7f7df0744f82ffa1ecc71c658f298494f85fc6b06d4bec585c1bda02c67/sethjuarez/numl",
+            "twitter:card": "summary_large_image",
+            "og:image:width": "1200",
+            "theme-color": "#1e2327",
+            "og:site_name": "GitHub",
+            "hovercard-subject-tag": "repository:3506346",
+            "turbo-body-classes": "logged-out env-production page-responsive",
+            "html-safe-nonce": "70ae136ef3c2841c9732212047d749fe3139241d85a0d95b32af0de7d516a0ab",
+            "expected-hostname": "github.com",
+            "og:description": "Machine Learning for .NET. Contribute to sethjuarez/numl development by creating an account on GitHub.",
+            "browser-errors-url": "https://api.github.com/_private/browser/errors",
+            "octolytics-dimension-user_login": "sethjuarez",
+            "hostname": "github.com",
+            "twitter:site": "@github",
+            "browser-stats-url": "https://api.github.com/_private/browser/stats",
+            "route-pattern": "/:user_id/:repository",
+            "visitor-payload": "eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiI5NDE3OjE3MTM6MTM1QTNBNjoxNDMwN0ZBOjY1NzdDQUI3IiwidmlzaXRvcl9pZCI6IjQ3ODQxMDk3NTQyNjUzNTY5ODMiLCJyZWdpb25fZWRnZSI6InNlYSIsInJlZ2lvbl9yZW5kZXIiOiJzZWEifQ==",
+            "github-keyboard-shortcuts": "repository",
+            "octolytics-dimension-repository_id": "3506346",
+            "octolytics-dimension-repository_network_root_nwo": "sethjuarez/numl",
+            "twitter:title": "GitHub - sethjuarez/numl: Machine Learning for .NET",
+            "og:image:alt": "Machine Learning for .NET. Contribute to sethjuarez/numl development by creating an account on GitHub.",
+            "og:type": "object",
+            "optimizely-datafile": "{\"groups\": [], \"environmentKey\": \"production\", \"rollouts\": [], \"typedAudiences\": [], \"projectId\": \"16737760170\", \"variables\": [], \"featureFlags\": [], \"experiments\": [], \"version\": \"4\", \"audiences\": [{\"conditions\": \"[\\\"or\\\", {\\\"match\\\": \\\"exact\\\", \\\"name\\\": \\\"$opt_dummy_attribute\\\", \\\"type\\\": \\\"custom_attribute\\\", \\\"value\\\": \\\"$opt_dummy_value\\\"}]\", \"id\": \"$opt_dummy_audience\", \"name\": \"Optimizely-Generated Audience for Backwards Compatibility\"}], \"anonymizeIP\": true, \"sdkKey\": \"WTc6awnGuYDdG98CYRban\", \"attributes\": [{\"id\": \"16822470375\", \"key\": \"user_id\"}, {\"id\": \"17143601254\", \"key\": \"spammy\"}, {\"id\": \"18175660309\", \"key\": \"organization_plan\"}, {\"id\": \"18813001570\", \"key\": \"is_logged_in\"}, {\"id\": \"19073851829\", \"key\": \"geo\"}, {\"id\": \"20175462351\", \"key\": \"requestedCurrency\"}, {\"id\": \"20785470195\", \"key\": \"country_code\"}, {\"id\": \"21656311196\", \"key\": \"opened_downgrade_dialog\"}], \"botFiltering\": false, \"accountId\": \"16737760170\", \"events\": [{\"experimentIds\": [], \"id\": \"17911811441\", \"key\": \"hydro_click.dashboa",
+            "og:title": "GitHub - sethjuarez/numl: Machine Learning for .NET",
+            "visitor-hmac": "264751c4a5b3faa9818e3bc242059b99f2e97dea88ec3fa67aaf6bc78a41cd78",
+            "og:image:height": "600",
+            "turbo-cache-control": "no-preview",
+            "request-id": "9417:1713:135A3A6:14307FA:6577CAB7",
+            "analytics-location": "/\u003cuser-name\u003e/\u003crepo-name\u003e",
+            "color-scheme": "light dark",
+            "octolytics-dimension-repository_is_fork": "false",
+            "go-import": "github.com/sethjuarez/numl git https://github.com/sethjuarez/numl.git",
+            "browser-optimizely-client-errors-url": "https://api.github.com/_private/browser/optimizely_client/errors",
+            "twitter:image:src": "https://opengraph.githubassets.com/22e4a7f7df0744f82ffa1ecc71c658f298494f85fc6b06d4bec585c1bda02c67/sethjuarez/numl",
+            "octolytics-dimension-user_id": "115409",
+            "octolytics-dimension-repository_public": "true",
+            "fb:app_id": "1401488693436528",
+            "octolytics-dimension-repository_network_root_id": "3506346",
+            "octolytics-dimension-repository_nwo": "sethjuarez/numl",
+            "viewport": "width=device-width",
+            "twitter:description": "Machine Learning for .NET. Contribute to sethjuarez/numl development by creating an account on GitHub.",
+            "current-catalog-service-hash": "82c569b93da5c18ed649ebd4c2c79437db4611a6a1373e805a3cb001c64130b7",
+            "og:url": "https://github.com/sethjuarez/numl"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://opengraph.githubassets.com/22e4a7f7df0744f82ffa1ecc71c658f298494f85fc6b06d4bec585c1bda02c67/sethjuarez/numl"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Signin | Online Admission System",
+      "htmlTitle": "Signin | Online Admission System",
+      "link": "https://onlineadmission.numl.edu.pk/addmax/app/signin.aspx",
+      "displayLink": "onlineadmission.numl.edu.pk",
+      "snippet": "NUML H-9, Islamabad. Phone. 92-51-9265100, Ext 2401,2402,2403,2406,2404,2409. Email: admissions@numl.edu.pk ; Website:www.numl.edu.pk. Copyright © 2007-2023 ...",
+      "htmlSnippet": "\u003cb\u003eNUML\u003c/b\u003e H-9, Islamabad. Phone. 92-51-9265100, Ext 2401,2402,2403,2406,2404,2409. Email: admissions@\u003cb\u003enuml\u003c/b\u003e.edu.pk ; Website:www.\u003cb\u003enuml\u003c/b\u003e.edu.pk. Copyright © 2007-2023&nbsp;...",
+      "cacheId": "c1P7_nVle9YJ",
+      "formattedUrl": "https://onlineadmission.numl.edu.pk/addmax/app/signin.aspx",
+      "htmlFormattedUrl": "https://onlineadmission.\u003cb\u003enuml\u003c/b\u003e.edu.pk/addmax/app/signin.aspx",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAI5u6JOShjBNfih_U9O0QV-X9kZoiG4Vri-nISl-1tWUcuxsMOFiqrIhS",
+            "width": "295",
+            "height": "171"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://onlineadmission.numl.edu.pk/addmax/app/img/Admission2018.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "OutpostHQ/numl: Atomic UI Framework based on Web ... - GitHub",
+      "htmlTitle": "OutpostHQ/numl: Atomic UI Framework based on Web ... - GitHub",
+      "link": "https://github.com/OutpostHQ/numl",
+      "displayLink": "github.com",
+      "snippet": "Universal – Numl is built on top of Web Components, a modern web API to create reusable UI elements, and it's compatible with most modern JS-frameworks. You can ...",
+      "htmlSnippet": "Universal – \u003cb\u003eNuml\u003c/b\u003e is built on top of Web Components, a modern web API to create reusable UI elements, and it&#39;s compatible with most modern JS-frameworks. You can&nbsp;...",
+      "cacheId": "If2NaP9F5voJ",
+      "formattedUrl": "https://github.com/OutpostHQ/numl",
+      "htmlFormattedUrl": "https://github.com/OutpostHQ/\u003cb\u003enuml\u003c/b\u003e",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTqFuEqQgtW9G2LAwZy_A5k0KHUATNBMABYqrCwjDqMhGNpOTvOG85aS0c",
+            "width": "318",
+            "height": "159"
+          }
+        ],
+        "softwaresourcecode": [
+          {
+            "license": "LICENSE",
+            "author": "OutpostHQ",
+            "name": "numl",
+            "text": "Numl is a UI Design Language, UI Library of Web Components, and Runtime CSS Framework for rapidly building interfaces that follow your Design System 🌈 STORYBOOK | HANDBOOK | REFERENCE |..."
+          }
+        ],
+        "metatags": [
+          {
+            "octolytics-url": "https://collector.github.com/github/collect",
+            "apple-itunes-app": "app-id=1477376905, app-argument=https://github.com/OutpostHQ/numl",
+            "og:image": "https://opengraph.githubassets.com/bd77d2c49058094ce799b47df20862ce9d1bcf016740d897ecc3bdd9803931a8/OutpostHQ/numl",
+            "twitter:card": "summary_large_image",
+            "og:image:width": "1200",
+            "theme-color": "#1e2327",
+            "og:site_name": "GitHub",
+            "hovercard-subject-tag": "repository:192300696",
+            "turbo-body-classes": "logged-out env-production page-responsive",
+            "html-safe-nonce": "900f898af9842050de212ba45f1db43cc81dffe1f968ad9910dee426ccb1e773",
+            "expected-hostname": "github.com",
+            "og:description": "Atomic UI Framework based on Web Components and Runtime CSS Generation for rapidly building interfaces that follow your Design System 🌈 - GitHub - OutpostHQ/numl: Atomic UI Framework based on Web C...",
+            "browser-errors-url": "https://api.github.com/_private/browser/errors",
+            "octolytics-dimension-user_login": "OutpostHQ",
+            "hostname": "github.com",
+            "twitter:site": "@github",
+            "browser-stats-url": "https://api.github.com/_private/browser/stats",
+            "route-pattern": "/:user_id/:repository",
+            "visitor-payload": "eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJGRUQ2OjE5NDA6ODFGRjcxOjg4M0M2Nzo2NTY1N0JFQiIsInZpc2l0b3JfaWQiOiIyNzI0NDcyMjkyMTM5OTU3MjI4IiwicmVnaW9uX2VkZ2UiOiJzZWEiLCJyZWdpb25fcmVuZGVyIjoic2VhIn0=",
+            "github-keyboard-shortcuts": "repository",
+            "octolytics-dimension-repository_id": "192300696",
+            "octolytics-dimension-repository_network_root_nwo": "OutpostHQ/numl",
+            "twitter:title": "GitHub - OutpostHQ/numl: Atomic UI Framework based on Web Components and Runtime CSS Generation for rapidly building interfaces that follow your Design System 🌈",
+            "og:image:alt": "Atomic UI Framework based on Web Components and Runtime CSS Generation for rapidly building interfaces that follow your Design System 🌈 - GitHub - OutpostHQ/numl: Atomic UI Framework based on Web C...",
+            "og:type": "object",
+            "optimizely-datafile": "{\"groups\": [], \"environmentKey\": \"production\", \"rollouts\": [], \"typedAudiences\": [], \"projectId\": \"16737760170\", \"variables\": [], \"featureFlags\": [], \"experiments\": [], \"version\": \"4\", \"audiences\": [{\"conditions\": \"[\\\"or\\\", {\\\"match\\\": \\\"exact\\\", \\\"name\\\": \\\"$opt_dummy_attribute\\\", \\\"type\\\": \\\"custom_attribute\\\", \\\"value\\\": \\\"$opt_dummy_value\\\"}]\", \"id\": \"$opt_dummy_audience\", \"name\": \"Optimizely-Generated Audience for Backwards Compatibility\"}], \"anonymizeIP\": true, \"sdkKey\": \"WTc6awnGuYDdG98CYRban\", \"attributes\": [{\"id\": \"16822470375\", \"key\": \"user_id\"}, {\"id\": \"17143601254\", \"key\": \"spammy\"}, {\"id\": \"18175660309\", \"key\": \"organization_plan\"}, {\"id\": \"18813001570\", \"key\": \"is_logged_in\"}, {\"id\": \"19073851829\", \"key\": \"geo\"}, {\"id\": \"20175462351\", \"key\": \"requestedCurrency\"}, {\"id\": \"20785470195\", \"key\": \"country_code\"}, {\"id\": \"21656311196\", \"key\": \"opened_downgrade_dialog\"}], \"botFiltering\": false, \"accountId\": \"16737760170\", \"events\": [{\"experimentIds\": [], \"id\": \"17911811441\", \"key\": \"hydro_click.dashboa",
+            "og:title": "GitHub - OutpostHQ/numl: Atomic UI Framework based on Web Components and Runtime CSS Generation for rapidly building interfaces that follow your Design System 🌈",
+            "visitor-hmac": "2678312c01ad69e68e5f2dd66cc7d706c6be2d803d4cf5e9e415b9e2660ed12e",
+            "og:image:height": "600",
+            "turbo-cache-control": "no-preview",
+            "request-id": "FED6:1940:81FF71:883C67:65657BEB",
+            "analytics-location": "/\u003cuser-name\u003e/\u003crepo-name\u003e",
+            "color-scheme": "light dark",
+            "octolytics-dimension-repository_is_fork": "false",
+            "go-import": "github.com/OutpostHQ/numl git https://github.com/OutpostHQ/numl.git",
+            "browser-optimizely-client-errors-url": "https://api.github.com/_private/browser/optimizely_client/errors",
+            "twitter:image:src": "https://opengraph.githubassets.com/bd77d2c49058094ce799b47df20862ce9d1bcf016740d897ecc3bdd9803931a8/OutpostHQ/numl",
+            "octolytics-dimension-user_id": "108050471",
+            "octolytics-dimension-repository_public": "true",
+            "fb:app_id": "1401488693436528",
+            "octolytics-dimension-repository_network_root_id": "192300696",
+            "octolytics-dimension-repository_nwo": "OutpostHQ/numl",
+            "viewport": "width=device-width",
+            "twitter:description": "Atomic UI Framework based on Web Components and Runtime CSS Generation for rapidly building interfaces that follow your Design System 🌈 - GitHub - OutpostHQ/numl: Atomic UI Framework based on Web C...",
+            "current-catalog-service-hash": "82c569b93da5c18ed649ebd4c2c79437db4611a6a1373e805a3cb001c64130b7",
+            "og:url": "https://github.com/OutpostHQ/numl"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://opengraph.githubassets.com/bd77d2c49058094ce799b47df20862ce9d1bcf016740d897ecc3bdd9803931a8/OutpostHQ/numl"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "numl",
+      "htmlTitle": "\u003cb\u003enuml\u003c/b\u003e",
+      "link": "http://numl.net/",
+      "displayLink": "numl.net",
+      "snippet": "The purpose of machine learning is to find (and exploit) patterns in data. Traditionally developers, when faced with a problem, develop an algorithm and write ...",
+      "htmlSnippet": "The purpose of machine learning is to find (and exploit) patterns in data. Traditionally developers, when faced with a problem, develop an algorithm and write&nbsp;...",
+      "cacheId": "7NFaUQ6zT94J",
+      "formattedUrl": "http://numl.net/",
+      "htmlFormattedUrl": "http://\u003cb\u003enuml\u003c/b\u003e.net/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToDfFpPd9O7fExYlT9SqRgIk2CbpdgEKSPrrkfQKoCjRIvbcd149mfLaA",
+            "width": "150",
+            "height": "150"
+          }
+        ],
+        "metatags": [
+          {
+            "docfx:navrel": "toc.html",
+            "viewport": "width=device-width",
+            "title": "numl",
+            "docfx:tocrel": "toc.html"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "http://numl.net/images/main/learning.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Is Numl isb hard to get into? : r/islamabad",
+      "htmlTitle": "Is \u003cb\u003eNuml\u003c/b\u003e isb hard to get into? : r/islamabad",
+      "link": "https://www.reddit.com/r/islamabad/comments/veziwq/is_numl_isb_hard_to_get_into/",
+      "displayLink": "www.reddit.com",
+      "snippet": "Jun 18, 2022 ... Numl is piss easy to get into unless you're absolutely braindead, which you probably aren't since you passed your intermediate without any ...",
+      "htmlSnippet": "Jun 18, 2022 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eNuml\u003c/b\u003e is piss easy to get into unless you&#39;re absolutely braindead, which you probably aren&#39;t since you passed your intermediate without any&nbsp;...",
+      "formattedUrl": "https://www.reddit.com/r/islamabad/.../is_numl_isb_hard_to_get_into/",
+      "htmlFormattedUrl": "https://www.reddit.com/r/islamabad/.../is_\u003cb\u003enuml\u003c/b\u003e_isb_hard_to_get_into/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ1NXYBDSq4zgQm-Ko9EYuqO9SxhfATacEtjHepyv7F6w",
+            "width": "225",
+            "height": "225"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://share.redd.it/preview/post/veziwq",
+            "theme-color": "#000000",
+            "og:image:width": "1200",
+            "og:type": "website",
+            "og:image:alt": "An image containing a preview of the post",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "r/islamabad on Reddit: Is Numl isb hard to get into?",
+            "og:site_name": "Reddit",
+            "og:title": "r/islamabad on Reddit: Is Numl isb hard to get into?",
+            "og:image:height": "630",
+            "msapplication-navbutton-color": "#000000",
+            "og:description": "Posted by u/Pos4ViPi - 8 votes and 71 comments",
+            "twitter:image": "https://share.redd.it/preview/post/veziwq",
+            "apple-mobile-web-app-status-bar-style": "black",
+            "twitter:site": "@reddit",
+            "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+            "apple-mobile-web-app-capable": "yes",
+            "og:ttl": "600",
+            "og:url": "https://www.reddit.com/r/islamabad/comments/veziwq/is_numl_isb_hard_to_get_into/"
+          }
+        ],
+        "cse_image": [
+          {}
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "numl 0.8.26 - NuGet Gallery",
+      "htmlTitle": "numl 0.8.26 - NuGet Gallery",
+      "link": "https://www.nuget.org/packages/numl/",
+      "displayLink": "www.nuget.org",
+      "snippet": "Oct 2, 2015 ... numl is a machine learning library intended to ease the use of using standard modeling techniques for both prediction and clustering.",
+      "htmlSnippet": "Oct 2, 2015 \u003cb\u003e...\u003c/b\u003e \u003cb\u003enuml\u003c/b\u003e is a machine learning library intended to ease the use of using standard modeling techniques for both prediction and clustering.",
+      "cacheId": "C7vIbINk4EgJ",
+      "formattedUrl": "https://www.nuget.org/packages/numl/",
+      "htmlFormattedUrl": "https://www.nuget.org/packages/\u003cb\u003enuml\u003c/b\u003e/",
+      "pagemap": {
+        "metatags": [
+          {
+            "og:determiner": "a",
+            "og:image": "https://api.nuget.org/v3-flatcontainer/numl/0.8.26/icon",
+            "fb:app_id": "235682883225736",
+            "twitter:card": "summary",
+            "og:type": "nugetgallery:package",
+            "twitter:site": "@nuget",
+            "viewport": "width=device-width, initial-scale=1",
+            "og:title": "numl 0.8.26",
+            "og:url": "https://nuget.org/packages/numl/",
+            "og:description": "numl is a machine learning library intended to ease the use of using standard modeling techniques for both prediction and clustering"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://api.nuget.org/v3-flatcontainer/numl/0.8.26/icon"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Admissions Navigation | NUML",
+      "htmlTitle": "Admissions Navigation | \u003cb\u003eNUML\u003c/b\u003e",
+      "link": "https://numl.edu.pk/admissions",
+      "displayLink": "numl.edu.pk",
+      "snippet": "All Languages /Functional Courses - Registration open, January 22, 2024 ; Deadline for Submission of Online Applications for NUML Regional Campuses, Visit ...",
+      "htmlSnippet": "All Languages /Functional Courses - Registration open, January 22, 2024 ; Deadline for Submission of Online Applications for \u003cb\u003eNUML\u003c/b\u003e Regional Campuses, Visit&nbsp;...",
+      "cacheId": "zbTLQ_v2fxEJ",
+      "formattedUrl": "https://numl.edu.pk/admissions",
+      "htmlFormattedUrl": "https://\u003cb\u003enuml\u003c/b\u003e.edu.pk/admissions",
+      "pagemap": {
+        "metatags": [
+          {
+            "website": "National_University_of_Modern_Languages",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "_token": "WGiwSlFIWSy3L1pIB8Rpau9BZh0PS5HeTZMWDpOz"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "NUML journal of critical inquiry",
+      "htmlTitle": "\u003cb\u003eNUML\u003c/b\u003e journal of critical inquiry",
+      "link": "https://jci.numl.edu.pk/",
+      "displayLink": "jci.numl.edu.pk",
+      "snippet": "NUML Journal of Critical Inquiry (NUML JCI) E ISSN 2789-4665, P ISSN 2222-5706 is published by National University of Modern Languages, Islamabad, Faculty of ...",
+      "htmlSnippet": "\u003cb\u003eNUML\u003c/b\u003e Journal of Critical Inquiry (\u003cb\u003eNUML\u003c/b\u003e JCI) E ISSN 2789-4665, P ISSN 2222-5706 is published by National University of Modern Languages, Islamabad, Faculty of&nbsp;...",
+      "cacheId": "u1exJNlKM8EJ",
+      "formattedUrl": "https://jci.numl.edu.pk/",
+      "htmlFormattedUrl": "https://jci.\u003cb\u003enuml\u003c/b\u003e.edu.pk/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-ey59NAmd1ko3ZBnKS3nwec58T2dAZ3yFflUR8dLxnOg0M4Ra0u00W-Fn",
+            "width": "323",
+            "height": "156"
+          }
+        ],
+        "metatags": [
+          {
+            "viewport": "width=device-width, initial-scale=1.0"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://jci.numl.edu.pk/public/journals/6/homepageImage_en_US.png"
+          }
+        ]
+      }
+    }
+  ]
+}
