@@ -1,10 +1,10 @@
-# Google Clone
+# Google Clone (React-based)
 
 ![Google Logo](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
 
 ## Overview
 
-This project is a responsive Google search clone built using React, HTML, CSS, and JavaScript. It integrates the Google Search API to fetch search results and features user search history tracking.
+This project is a responsive Google search clone built using React, HTML, CSS, and JavaScript. It integrates the Google Search API to fetch search results and features user search history tracking. Additionally, it now includes a speech recognition search feature.
 
 ## Features
 
@@ -12,10 +12,11 @@ This project is a responsive Google search clone built using React, HTML, CSS, a
 - **Responsive Design:** Ensures optimal display across various devices - desktops, tablets, and mobile phones.
 - **User Search History:** Records and displays a history of user searches for easier access to past queries.
 - **Custom UI:** Mimics the user interface and functionality of the official Google search page.
+- **Speech Recognition Search:** Enables users to perform searches by voice input.
 
 ## Demo
 
-To experience the live demo of the Google Clone application, [click here]([#](https://google-clone-pied-seven.vercel.app/)).
+To experience the live demo of the Google Clone application, [click here](https://google-clone-pied-seven.vercel.app/).
 
 ## Technologies Used
 
@@ -42,6 +43,7 @@ To experience the live demo of the Google Clone application, [click here]([#](ht
 
 - Open the web application in a browser after following the setup instructions.
 - Enter your search query in the provided search bar and press Enter or click on the search button.
+- Optionally, use the speech recognition feature by clicking the microphone icon and speaking your query.
 - Search results will be displayed based on the Google Search API response.
 - Access your search history to view past queries and easily revisit previous searches.
 
@@ -58,5 +60,3 @@ To experience the live demo of the Google Clone application, [click here]([#](ht
 7. Commit your changes with descriptive commit messages: `git commit -m "Add new feature"`
 8. Push your changes to your forked repository: `git push origin feature/new-feature`
 9. Submit a pull request to the main repository.
-
-
