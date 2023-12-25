@@ -10,19 +10,18 @@ export default function Hero() {
         <img height={"90"} width={"270"} src={googleImg} alt="google"></img>
       </div>
       <Search clicked={clicked} setclicked={setclicked} />
-      {!clicked && (
-        <div className="btn-div">
-          <button className="btn-p">Google Search</button>
-          <a
-            href="https://doodles.google/"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="iner btn-p"
-          >
-            I'm Feeling Lucky
-          </a>
-        </div>
-      )}
+
+      <div className="btn-div">
+        <button className="btn-p">Google Search</button>
+        <a
+          href="https://doodles.google/"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="iner btn-p"
+        >
+          I'm Feeling Lucky
+        </a>
+      </div>
     </section>
   );
 }
