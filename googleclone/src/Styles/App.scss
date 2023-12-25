@@ -133,7 +133,7 @@ b {
 
 //  Home
 .home {
-  @include flex(column, flex-start, center);
+  @include flex(column, space-between, center);
   max-width: 100vw;
   width: 100%;
   min-height: 100vh;
@@ -280,7 +280,7 @@ div.btn-div {
 .footerWrapper {
   @include flex(column, flex-end, center);
   width: 100%;
-  flex-grow: 1;
+  flex-grow: 0.65;
   flex-basis: 0;
 }
 .footer {
