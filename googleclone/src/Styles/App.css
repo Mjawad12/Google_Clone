@@ -128,6 +128,10 @@ b {
   font-weight: 600;
 }
 
+path {
+  pointer-events: none;
+}
+
 .home {
   display: flex;
   flex-direction: column;
@@ -230,7 +234,7 @@ div.btn-div {
 }
 @media (max-width: 40em) {
   .inputDiv {
-    padding: 0.5rem 0.9rem 0.45rem;
+    padding: 0.5rem 0.9rem 0rem;
   }
 }
 .inputDiv:hover {
@@ -719,4 +723,20 @@ div.btn-div {
 .rDWrapper .rD svg {
   width: 7rem;
   height: 7rem;
+}
+@media (max-width: 50em) {
+  .rDWrapper .rD {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+  }
+  .rDWrapper .rD .values {
+    text-align: center;
+    padding: 0.2rem;
+  }
+  .rDWrapper .rD svg {
+    width: 3rem;
+    height: 3rem;
+  }
 }/*# sourceMappingURL=App.css.map */

@@ -17,7 +17,9 @@ export default function RecordDialog({
           .map((result) => result.transcript)
           .join("");
         const ptag = document.querySelector(".values");
-        ptag.innerText = ptag && transScript;
+        if (ptag) {
+          ptag.innerText = transScript;
+        }
         if (e.results[0].isFinal) {
           setrecordDialog(false);
           document.body.classList.remove("no-scroll");
@@ -36,9 +38,7 @@ export default function RecordDialog({
   return (
     <div className="rDWrapper">
       <svg
-        onClick={() => {
-          setrecordDialog(false);
-        }}
+        onClick={abortRec}
         xmlns="http://www.w3.org/2000/svg"
         viewBox="0 0 21 24"
         height={"40"}

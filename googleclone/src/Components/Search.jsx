@@ -132,8 +132,8 @@ export default function Search(props) {
             </svg>
           )}
           <div
-            className="iner"
             onClick={() => {
+              inputRef.current.blur();
               setrecordDialog(true);
               document.body.classList.add("no-scroll");
             }}
@@ -145,6 +145,7 @@ export default function Search(props) {
               xmlns="http://www.w3.org/2000/svg"
               height={"25px"}
               width={"30px"}
+              pointerEvents={"none"}
             >
               <path
                 fill="#4285f4"
