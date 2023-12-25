@@ -53,6 +53,10 @@
   cursor: pointer;
 }
 
+.no-scroll {
+  overflow: hidden;
+}
+
 .btn-div {
   gap: 1rem;
 }
@@ -221,7 +225,7 @@ div.btn-div {
   width: 100%;
   border-radius: 30px;
   border: 1px solid rgba(0, 0, 0, 0.168);
-  padding: 0.6rem 0.9rem 0.75rem;
+  padding: 0.6rem 0.9rem 0.2rem;
   background-color: white;
 }
 @media (max-width: 40em) {
@@ -660,4 +664,59 @@ div.btn-div {
   font-family: "Arial Regular", sans-serif;
   color: black;
   font-size: 0.9rem;
+}
+
+.rDWrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 999999;
+  background-color: white;
+  width: 100vw;
+  min-height: 100vh;
+  height: 100%;
+}
+.rDWrapper .crossSVG {
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 0.5rem;
+}
+.rDWrapper .rD {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 53rem;
+  width: 100%;
+  margin-bottom: 5rem;
+  padding: 0 5rem;
+}
+.rDWrapper .rD .micr {
+  box-shadow: 1px 1px 20px #d8d7dc;
+  border-radius: 100vw;
+  padding: 1.5rem;
+  border: 1px solid #d8d7dc;
+}
+.rDWrapper .rD .micr:hover {
+  background-color: rgba(0, 0, 0, 0.093);
+}
+.rDWrapper .rD .values {
+  max-width: 25ch;
+  width: 100%;
+  word-wrap: break-word;
+  font-family: "Arial Regular", sans-serif;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 2rem;
+  color: rgb(112, 117, 122);
+  margin-bottom: 1.5rem;
+}
+.rDWrapper .rD svg {
+  width: 7rem;
+  height: 7rem;
 }/*# sourceMappingURL=App.css.map */

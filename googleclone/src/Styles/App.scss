@@ -69,7 +69,9 @@ $hr-color: rgba(0, 0, 0, 0.093);
   border-radius: 5px;
   cursor: pointer;
 }
-
+.no-scroll {
+  overflow: hidden;
+}
 .btn-div {
   gap: 1rem;
 }
@@ -203,7 +205,7 @@ div.btn-div {
   width: 100%;
   border-radius: 30px;
   border: 1px solid rgba(0, 0, 0, 0.168);
-  padding: 0.6rem 0.9rem 0.75rem;
+  padding: 0.6rem 0.9rem 0.2rem;
   background-color: white;
   @media (max-width: 40em) {
     padding: 0.5rem 0.9rem 0.45rem;
@@ -571,6 +573,56 @@ div.btn-div {
       font-family: $ff-p;
       color: black;
       font-size: 0.9rem;
+    }
+  }
+}
+
+.rDWrapper {
+  @include flex(row, center, center);
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 999999;
+  background-color: white;
+  width: 100vw;
+  min-height: 100vh;
+  height: 100%;
+
+  .crossSVG {
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 0.5rem;
+  }
+  .rD {
+    @include flex(row, space-between, center);
+    max-width: 53rem;
+    width: 100%;
+    margin-bottom: 5rem;
+    padding: 0 5rem;
+    .micr {
+      box-shadow: 1px 1px 20px $btn-hover;
+      border-radius: 100vw;
+      padding: 1.5rem;
+      border: 1px solid $btn-hover;
+      &:hover {
+        background-color: $hr-color;
+      }
+    }
+    .values {
+      max-width: 25ch;
+      width: 100%;
+      word-wrap: break-word;
+      font-family: $ff-p;
+      font-size: 2rem;
+      font-weight: 500;
+      line-height: 2rem;
+      color: $off-color;
+      margin-bottom: 1.5rem;
+    }
+    svg {
+      width: 7rem;
+      height: 7rem;
     }
   }
 }
